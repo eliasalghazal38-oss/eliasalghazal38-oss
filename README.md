@@ -4,19 +4,17 @@
 
 
 
-![Followers](https://img.shields.io/github/followers/eliasalghazal38-oss?style=for-the-badge&color=00e5a0&labelColor=0f2027)
+![Telecom](https://img.shields.io/badge/Telecom-Engineering-00e5a0?style=for-the-badge&labelColor=0f2027)
 
 
 
 
-![Repos](https://img.shields.io/github/repositories/eliasalghazal38-oss?style=for-the-badge&color=00b8ff&labelColor=0f2027)
+![Focus](https://img.shields.io/badge/Focus-Networking%20%26%20Security-00b8ff?style=for-the-badge&labelColor=0f2027)
 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=eliasalghazal38-oss&style=for-the-badge&color=00e5a0&label=VIEWS)
-
-
+![Project](https://img.shields.io/badge/Project-AeroMesh-00e5a0?style=for-the-badge&labelColor=0f2027)
 
 </div>
 
