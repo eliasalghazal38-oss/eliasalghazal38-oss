@@ -34,10 +34,22 @@ Telecommunications & Computer Engineering student, passionate about networks, wi
 ![C](https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=00e5a0)
 
 
-![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=c&logoColor=00e5a0)
+![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=00e5a0)
 
-![JS](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=c&logoColor=00e5a0)
 
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=00e5a0)
+
+
+
+
+![CSS](https://img.shields.io/badge/CSS-0f2027?style=for-the-badge&logo=css3&logoColor=00e5a0)
+
+
+
+
+![HTML](https://img.shields.io/badge/HTML-0f2027?style=for-the-badge&logo=html5&logoColor=00e5a0)
 ![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00e5a0)
 
 
