@@ -34,7 +34,7 @@ Telecommunications & Computer Engineering student, passionate about networks, wi
 ![C](https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=00e5a0)
 
 
-
+![Java](https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=00e5a0)
 
 ![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00e5a0)
 
