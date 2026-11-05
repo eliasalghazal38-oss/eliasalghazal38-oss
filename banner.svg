@@ -1,0 +1,64 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f3040"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#00e5a0"/>
+      <stop offset="1" stop-color="#00b8ff"/>
+    </linearGradient>
+    <clipPath id="c">
+      <rect x="252" y="140" height="40" width="0">
+        <animate attributeName="width" values="0;396;396;0" keyTimes="0;0.45;0.9;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    .l{stroke:#00e5a0;stroke-opacity:.35;stroke-width:1.2;stroke-dasharray:6 6;animation:d 3s linear infinite}
+    @keyframes d{to{stroke-dashoffset:-24}}
+    .n{fill:#00e5a0;transform-box:fill-box;transform-origin:center;animation:p 2.4s ease-in-out infinite}
+    @keyframes p{50%{transform:scale(1.9);opacity:.45}}
+  </style>
+
+  <rect width="900" height="260" rx="16" fill="url(#bg)"/>
+
+  <!-- mesh network -->
+  <g>
+    <line class="l" x1="60" y1="60" x2="140" y2="170"/>
+    <line class="l" x1="140" y1="170" x2="220" y2="70"/>
+    <line class="l" x1="60" y1="60" x2="220" y2="70"/>
+    <line class="l" x1="140" y1="170" x2="120" y2="225"/>
+    <line class="l" x1="220" y1="70" x2="300" y2="215"/>
+    <line class="l" x1="740" y1="50" x2="820" y2="150"/>
+    <line class="l" x1="820" y1="150" x2="700" y2="205"/>
+    <line class="l" x1="740" y1="50" x2="600" y2="40"/>
+    <line class="l" x1="820" y1="150" x2="850" y2="230"/>
+    <line class="l" x1="700" y1="205" x2="740" y2="50"/>
+    <circle class="n" cx="60" cy="60" r="5"/>
+    <circle class="n" cx="140" cy="170" r="5" style="animation-delay:.4s"/>
+    <circle class="n" cx="220" cy="70" r="5" style="animation-delay:.8s"/>
+    <circle class="n" cx="120" cy="225" r="4" style="animation-delay:1.2s"/>
+    <circle class="n" cx="300" cy="215" r="4" style="animation-delay:1.6s"/>
+    <circle class="n" cx="740" cy="50" r="5" style="animation-delay:.2s"/>
+    <circle class="n" cx="820" cy="150" r="5" style="animation-delay:.6s"/>
+    <circle class="n" cx="700" cy="205" r="5" style="animation-delay:1s"/>
+    <circle class="n" cx="600" cy="40" r="4" style="animation-delay:1.4s"/>
+    <circle class="n" cx="850" cy="230" r="4" style="animation-delay:1.8s"/>
+  </g>
+
+  <!-- name -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#g)">Elias Al-Ghazal
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- typing line -->
+  <g clip-path="url(#c)">
+    <text x="252" y="168" font-family="Consolas, monospace" font-size="22" fill="#e6f1f5" textLength="396" lengthAdjust="spacingAndGlyphs">Telecom &amp; Computer Engineering</text>
+  </g>
+  <rect y="146" width="3" height="28" fill="#00e5a0">
+    <animate attributeName="x" values="252;648;648;252" keyTimes="0;0.45;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="450" y="212" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#8aa4b2" letter-spacing="3">NETWORKING  •  WIRELESS  •  CYBERSECURITY</text>
+</svg>
